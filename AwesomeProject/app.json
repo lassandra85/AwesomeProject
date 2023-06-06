@@ -1,7 +1,6 @@
 {
 
   "expo": {
-
     "name": "AwesomeProject",
     "slug": "AwesomeProject",
     "version": "1.0.0",
@@ -15,31 +14,23 @@
     },
 
     "assetBundlePatterns": [
-
       "**/*"
-
     ],
 
     "ios": {
-
       "supportsTablet": true
-
     },
 
     "android": {
 
       "adaptiveIcon": {
-
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-
       }
     },
 
     "web": {
-
       "favicon": "./assets/favicon.png"
-      
     }
   }
 }
